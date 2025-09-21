@@ -191,7 +191,7 @@ Create a secrets file for your API keys and password.
 2. Inside that folder, create a file named secrets.toml.
 
 3. Add your credentials to the file as shown below:
-# .streamlit/secrets.toml
+  .streamlit/secrets.toml
 
 GOOGLE_API_KEY = "your_google_api_key_here"
 PLACEMENT_PASSWORD = "your_admin_password_here"
