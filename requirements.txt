@@ -1,11 +1,9 @@
-python==3.11
-# App Dependencies
 streamlit
 pandas
 pypdf2
 python-docx
 numpy
 langchain-google-genai
-spacy==3.7.2
-en-core-web-sm==3.7.1
+spacy
+en-core-web-sm
 sentence-transformers
