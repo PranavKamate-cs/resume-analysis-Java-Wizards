@@ -1,0 +1,8 @@
+streamlit
+spacy
+sentence-transformers
+pandas
+pypdf2
+python-docx
+numpy
+langchain-google-genai
