@@ -42,8 +42,8 @@ Git
 ### 1. Clone the Repository
 Open your terminal and clone the project repository:
 
-git clone https://github.com/your-username/your-repository-name.git
-cd your-repository-name
+git clone [https://github.com/your-username/your-repository-name.git](https://github.com/PranavKamate-cs/resume-analysis-Java-Wizards/tree/main)
+cd resume-analysis-Java-Wizards
 
 Of course. Here is a comprehensive README.md file for your project, structured with the sections you requested.
 
@@ -95,8 +95,8 @@ Open your terminal and clone the project repository:
 
 Bash
 
-git clone https://github.com/your-username/your-repository-name.git
-cd your-repository-name
+git clone h[ttps://github.com/your-username/your-repository-name.git](https://github.com/PranavKamate-cs/resume-analysis-Java-Wizards/tree/main)
+cd resume-analysis-Java-Wizards
 ### 2. Create and Activate a Virtual Environment
 It's highly recommended to use a virtual environment to manage dependencies.
 
@@ -160,7 +160,7 @@ Open your terminal and clone the project repository:
 
 Bash
 
-git clone https://github.com/your-username/your-repository-name.git
+git clone https:[//github.com/your-username/your-repository-name.git](https://github.com/PranavKamate-cs/resume-analysis-Java-Wizards)
 cd your-repository-name
 ### 2. Create and Activate a Virtual Environment
 It's highly recommended to use a virtual environment to manage dependencies.
